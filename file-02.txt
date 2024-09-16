@@ -1,0 +1,2 @@
+Creamos otro file-02.txt para segir trabajando con archivos de texto
+Nos trajimos el file-01 de main para tener un respaldo ya que allí este se va a eliminar 
